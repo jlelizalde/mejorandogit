@@ -1,12 +1,7 @@
 body
 {
-<<<<<<< HEAD
  background: rgb(59, 56, 76);
  font-size: 21px;
-=======
- background: rgb(22, 21, 20);
- font-size: 16px;
->>>>>>> 26be4f1bc0d5e539e5411a626e16d54dcee52500
 }
 
 a
@@ -16,11 +11,7 @@ a
 
 ul
 {
-<<<<<<< HEAD
   margin: 30% 0 0% 0%;
-=======
-  margin: 20% 0 0% 0%;
->>>>>>> 26be4f1bc0d5e539e5411a626e16d54dcee52500
 }
 
 ul li
@@ -30,11 +21,7 @@ ul li
 
 ul li a
 {
-<<<<<<< HEAD
  text-decoration: none;
-=======
- text-decoration: none; 
->>>>>>> 26be4f1bc0d5e539e5411a626e16d54dcee52500
 }
 
 ul li a p
@@ -108,11 +95,7 @@ div.sidebar_userimage img
   border-radius: 26px;
   width: 75px;
   padding: 7px;
-<<<<<<< HEAD
-  border: 1px solid #ccc;
-=======
   border: 1px solid #ccc; 
->>>>>>> 26be4f1bc0d5e539e5411a626e16d54dcee52500
 }
 
 div.comunidad-autoria
@@ -157,17 +140,10 @@ div.nombre p
 
 div.layout-principal
 {
-<<<<<<< HEAD
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
-=======
-  position: absolute; 
-  top: 0; 
-  right: 0; 
-  bottom: 0;  
->>>>>>> 26be4f1bc0d5e539e5411a626e16d54dcee52500
   overflow-x: auto;
   width: 55%;
   padding: 0% 6.5%;
